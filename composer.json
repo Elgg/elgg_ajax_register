@@ -1,0 +1,22 @@
+{
+    "name": "elgg/elgg_ajax_register",
+    "description": "Loads the registration form via Ajax request to reduce spam",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin",
+        "security"
+    ],
+    "homepage": "http://elgg.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Core developers",
+            "homepage": "http://elgg.org/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}
